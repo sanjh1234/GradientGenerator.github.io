@@ -1,1 +1,1 @@
-# GradientGenerator.github.io
+# gradient-generator
